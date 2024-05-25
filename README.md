@@ -1,0 +1,2 @@
+# React + Vite
+This is a food ordering website using React JS. In this React JS project created the Home page to display the menu and food items, then cart page and order page and finally Sign In / Sign Up popup. 
